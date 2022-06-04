@@ -1,0 +1,61 @@
+[{
+    "name":"OnePlus 10R 5G",
+    "specs":"8GB/256GB",
+    "original": "43,000",
+    "cost":"15,000",
+    "rating":"4.4",
+    "image":"https://m.media-amazon.com/images/I/81Vr3jzftaL._SX522_.jpg"
+    },
+    
+    
+    {
+    "name":"Samsung Galaxy S21 FE 5G",
+    "specs":"8GB/256GB",
+    "original": "54,000",
+    "cost":"20,000",
+    "rating":"4.6",
+    "image":"https://m.media-amazon.com/images/I/71gD8WdSlaL._SX679_.jpg"
+    },
+    
+    {
+    "name":"Apple iPhone 13", 
+    "specs":"6GB/26GB",
+    "original": "70,000",
+    "cost":"30,000",
+    "rating":"4.7",
+    "image":"https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg"
+    },
+    
+    {
+    "name":"Xiaomi 12 Pro", 
+    "specs":"12GB/512GB",
+    "original": "68,000",
+    "cost":"22,000",
+    "rating":"4.2",
+    "image":"https://m.media-amazon.com/images/I/41d3aWbrsmL.jpg"
+    },
+    
+    
+    {
+    "name":"Realme GT 2 Pro", 
+    "specs":"8GB/512GB",
+    "original": "60,000",
+    "cost":"20,000",
+    "rating":"4.3",
+    "image":"https://m.media-amazon.com/images/I/61ZreLCbraL._SX679_.jpg"
+    },
+    
+    
+    {
+    "name":"iQOO 9 5G", 
+    "specs":"8GB/512GB",
+    "original": "52,000",
+    "cost":"21,000",
+    "rating":"4.3",
+    "image":"https://m.media-amazon.com/images/I/71--IQUHVwL._SX522_.jpg"
+    }
+    ]
+    
+    
+    
+    
