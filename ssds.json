@@ -1,0 +1,55 @@
+[
+  {
+    "name": "SanDisk 2TB Extreme Portable SSD",
+    "specs": "2TB",
+    "original": "20,000",
+    "cost": "12,000",
+    "rating": "4.7",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/sandisk2tb.jpg"
+  },
+
+  {
+    "name": "SAMSUNG 980 PRO SSD 2TB PCIe",
+    "specs": "2TB",
+    "original": "29,000",
+    "cost": "12,000",
+    "rating": "4.9",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/samsung_vnad_980pro.jpg"
+  },
+
+  {
+    "name": "Crucial MX500 500GB 3D NAND ",
+    "specs": "500GB",
+    "original": "1,00,000",
+    "cost": "40,000",
+    "rating": "4.9",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/crucial500.jpg"
+  },
+
+  {
+    "name": "WD_BLACK 1TB SN850X NVMe",
+    "specs": "1TB",
+    "original": "90,000",
+    "cost": "40,000",
+    "rating": "4.6",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/wdblack.jpg"
+  },
+
+  {
+    "name": "SAMSUNG 870 EVO 4TB 2.5 Inch SATA III",
+    "specs": "4TB",
+    "original": "37,000",
+    "cost": "19,000",
+    "rating": "4.1",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/samsung4tb.jpg"
+  },
+
+  {
+    "name": "TEAMGROUP T-Force Vulcan Z 1TB SLC Cache 3D NAND",
+    "specs": "1TB",
+    "original": "6,500",
+    "cost": "3,000",
+    "rating": "4.0",
+    "image": "https://noobgamer75.github.io/ecommerceApi/ssd%20pics/teamgroup.jpg"
+  }
+]
