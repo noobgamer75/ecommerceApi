@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Seagate IronWolf 4TB NAS Internal Hard Drive HDD",
+    "specs": "4TB",
+    "original": "8,200",
+    "cost": "2,000",
+    "rating": "4.5",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/sagate4tb.jpg"
+  },
+
+  {
+    "name": "Western Digital 4TB WD Red Plus NAS ",
+    "specs": "4TB",
+    "original": "6,900",
+    "cost": "2,200",
+    "rating": "4.9",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/wdredplus.jpg"
+  },
+
+  {
+    "name": "Toshiba X300 4TB",
+    "specs": "4TB",
+    "original": "8,400",
+    "cost": "2,500",
+    "rating": "4.9",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/tosiba4tb.jpg"
+  },
+
+  {
+    "name": "Seagate FireCuda HDD 4TB",
+    "specs": "4TB",
+    "original": "12,900",
+    "cost": "4,000",
+    "rating": "4.6",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/firecuda4tb.jpg"
+  },
+
+  {
+    "name": "Western Digital 4TB WD Gold Enterprise",
+    "specs": "4TB",
+    "original": "14,000",
+    "cost": "7,000",
+    "rating": "4.5",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/wdgoldentp.jpg"
+  },
+
+  {
+    "name": "Seagate Exos 4TB",
+    "specs": "4TB",
+    "original": "12,500",
+    "cost": "5,000",
+    "rating": "4.3",
+    "image": "https://noobgamer75.github.io/ecommerceApi/hdd%20pics/segateexox.jpg"
+  }
+]
